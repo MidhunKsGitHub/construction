@@ -1,0 +1,16 @@
+<resources>
+
+    <declare-styleable name="CustomView">
+        <attr format="string" name="text"/>
+        <attr format="reference" name="image"/>
+    </declare-styleable>
+
+    <declare-styleable name="XLayout">
+        <attr format="string" name="name"/>
+        <attr format="string" name="address"/>
+        <attr format="string" name="phone"/>
+        <attr format="reference" name="icon"/>
+    </declare-styleable>
+
+
+</resources>
